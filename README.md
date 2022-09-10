@@ -7,18 +7,26 @@ Discord Token Login
 
 ![Screenshot](https://raw.githubusercontent.com/Ho3einWave/Grim-Login/main/Screenshot/Screenshot.jpg)
 
+Supported Platforms: <img height="18" width="24" src="https://unpkg.com/simple-icons@v7/icons/windows.svg" /> *(For now)*
 
-# `Installation:`
+# Installation:
 
-`pip install -r requirements.txt`
+1. Run `install.bat`
 
-`python grimlogin.py`
+2. Run `run.bat`
+
+OR
 
 
-### `Python:`
+1. `pip install -r requirements.txt`
 
-Python 3.6 and 3.7 are compatible, you can get them here:
+2. `python main.py`
 
-[Python 3.6.8](https://www.python.org/downloads/release/python-368/)
 
-[Python 3.7.2](https://www.python.org/downloads/release/python-373/)
+### Python:
+
+Python 3.6 or higher are compatible, you can get them here:
+
+[Python](https://www.python.org/downloads/)
+
+
